@@ -1,0 +1,8 @@
+!*/project.pbxproj
+*.xcodeproj/*
+.DS_Store
+build
+help
+tools/env.sh
+ARCollections.graffle
+.idea
